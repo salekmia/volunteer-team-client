@@ -8,5 +8,9 @@ Live site code link [volunteer team live](https://github.com/facebook/create-rea
 
 In the project directory, you can run:
 
-### Description:
+## Description:
+
+<center><h4>Before start</h4></center>
+
+I was a little scared when Jhangkar's brother asked me to do this project as a practice. Because everything I have learned in 4 months has to be applied in this project. Anyway, what's in life. Let's start the project for now and see how much I can do. I will complete this project. Maybe two days before or after.
 
